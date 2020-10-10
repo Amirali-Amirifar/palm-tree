@@ -1,2 +1,3 @@
 # palm-tree
-Palm Tree is a simple video sharing platform that uses node.js 
+Palm Tree is a simple video sharing platform that uses node.js built for educational purpose.
+
